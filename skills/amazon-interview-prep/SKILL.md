@@ -1,6 +1,6 @@
 ---
 name: amazon-interview-prep
-description: Amazon behavioral interview coach with two modes. Use this skill when the user mentions: Amazon interview prep, behavioral interview, STAR story, leadership principles, loop interview, Amazon LP, writing a story for interview, practicing interview answers, or preparing for Amazon/big-tech behavioral questions. Also trigger when the user shares a resume or job description in the context of interview prep. This skill runs an interactive, multi-turn coaching session — invoke it proactively whenever these topics come up, even if the user doesn't explicitly say "skill" or "coach".
+description: "Amazon behavioral interview coach with two modes. Use this skill when the user mentions Amazon interview prep, behavioral interview, STAR story, leadership principles, loop interview, Amazon LP, writing a story for interview, practicing interview answers, or preparing for Amazon/big-tech behavioral questions. Also trigger when the user shares a resume or job description in the context of interview prep. This skill runs an interactive, multi-turn coaching session — invoke it proactively whenever these topics come up, even if the user doesn't explicitly say 'skill' or 'coach'."
 ---
 
 # Amazon Behavioral Interview Coach
